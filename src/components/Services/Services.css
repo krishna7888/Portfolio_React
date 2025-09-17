@@ -79,6 +79,10 @@
         gap: 70px;
         margin: 50px 70px;
     }
+    .services-container{
+        margin-right: 0;
+        margin-left: 0;
+    }
     .services-title h1{
         padding: 0;
         font-size: 50px;
@@ -88,8 +92,8 @@
         margin-right: -20px;
     }
     .services-format{
-        gap: 20px;
-        padding: 32px;
+        gap: 15px;
+        padding: 12px;
     }
     .services-format h2{
         font-size: 28px;

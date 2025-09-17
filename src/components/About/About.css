@@ -5,6 +5,7 @@
     justify-content: center;
     gap: 80px;
     margin: 80px 170px;
+
 }
 
 .about-title {
@@ -136,6 +137,7 @@
     .about{
         gap: 80px;
         margin: 50px 70px;
+        margin-right: 0;
         align-items: start;
     }
     .about-title h1{
@@ -171,6 +173,8 @@
     }
     .about-achievement{
         gap: 10px;
+        margin-left: 10px;
+        margin-right: 0;
     }
     .about-achievement h1{
         font-size: 34px;

@@ -25,7 +25,12 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <img src={logo} alt="Logo" className="nav-logo" />
+      {/* <img src={logo} alt="Logo" className="nav-logo" /> */}
+      <div className='logo'>
+        <h1 class="gradient-text">Krishna Gupta</h1>
+
+      </div>
+
 
       {/* Hamburger icon */}
       <img src={menu_open} onClick={openMenu} alt="menu" className="nav-mob-open" />
