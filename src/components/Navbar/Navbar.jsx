@@ -27,7 +27,7 @@ const Navbar = () => {
     <div className="navbar">
       {/* <img src={logo} alt="Logo" className="nav-logo" /> */}
       <div className='logo'>
-        <h1 class="gradient-text">Krishna Gupta</h1>
+        <h1 className="gradient-text">Krishna Gupta</h1>
 
       </div>
 
