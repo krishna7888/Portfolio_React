@@ -33,7 +33,7 @@ const onSubmit = async (event) => {
   return (
     <div id='contact' className='contact'>
         <div className="contact-title">
-            <h1>Contact with me</h1>
+            <h1>Contact Me</h1>
             <img src={theme_pattern} alt="" />
         </div>
       <div className="contact-section">
