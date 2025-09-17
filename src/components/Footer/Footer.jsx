@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="footer-bootom-right">
                     <p>Term of Services</p>
                     <p>Privacy Policy</p>
-                    <p>Connect wuth me</p>
+                    <p>Connect with me.</p>
                 </div>
             </div>
         </div>

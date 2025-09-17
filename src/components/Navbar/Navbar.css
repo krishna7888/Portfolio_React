@@ -51,7 +51,15 @@
 .nav-mob-open{
     display: none;
 }
+ .navbar{
+    background-color: rgb(117, 122, 122);
+    margin: 0;
+    padding: 0;
+  }
 @media (max-width: 768px) {
+  .navbar{
+    background-color: rgb(62, 66, 66);
+  }
   .nav-mob-open {
     display: block;
     position: fixed;

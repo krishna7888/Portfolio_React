@@ -1,14 +1,19 @@
 .footer{
-    margin: 50px 170px;
     display: flex;
     flex-direction: column;
     gap: 30px;
+    background-color:white;
+    color: black;
+    margin: 0;
+    padding: 0;
 }
 
 .footer-bottom{
+    margin-right: 50px;
     display: flex;
     justify-content: space-between;
-    font-size: 18px;
+    font-size: 20px;
+    margin-bottom: 30px;
 }
 .footer-bottom-right{
     display: flex;
@@ -17,7 +22,10 @@
 }
 @media(max-width:768px){
     .footer{
-        margin: 50px 70px;
+    background-color:white;
+    color: black;
+    margin: 0;
+    padding: 0;
     }
     .footer-bottom{
         display: flex;
