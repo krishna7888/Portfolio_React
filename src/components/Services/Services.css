@@ -77,7 +77,7 @@
     .services{
         align-items: start;
         gap: 70px;
-        margin: 50px 70px;
+        margin: 50px 30px 50px 70px;
     }
     .services-container{
         margin-right: 0;
@@ -92,8 +92,9 @@
         margin-right: -20px;
     }
     .services-format{
-        gap: 15px;
-        padding: 12px;
+        gap: 5px;
+        padding: 5px;
+        width: 147px;
     }
     .services-format h2{
         font-size: 28px;

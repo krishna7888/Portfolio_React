@@ -76,6 +76,7 @@
 @media (max-width: 768px) {
   .navbar{
     background-color: rgb(62, 66, 66);
+    width: 459px;
   }
   .nav-mob-open {
     display: block;
