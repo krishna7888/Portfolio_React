@@ -29,7 +29,6 @@ const Services = () => {
                      <p>Read More</p>
                      <img src={arrow_icon} alt="" />
                   </div>
-
                </div>
             })}
          </div>
