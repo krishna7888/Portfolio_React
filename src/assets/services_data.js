@@ -37,6 +37,7 @@ const Services_Data = [
     {
         s_no: "08",
         s_name: "Udemy - CSS, Bootstrap and JavaScript",
+         pdf: `${import.meta.env.BASE_URL}certificates/CSS.pdf`
     },
 ]
 
